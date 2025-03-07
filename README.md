@@ -12,6 +12,6 @@ This is my first repository
 > This is a quote
 
 ...
-This is for code example  
-code looks like this  
+This is for code example
+code looks like this 
 ...
